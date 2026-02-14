@@ -67,6 +67,12 @@ SeaSeed provides OpenCLAW-compatible Skills that enable AI agents to autonomousl
 | **算力共享** - 闲置算力可以被调度和使用 | **Compute Sharing** - Idle compute resources can be scheduled and used |
 
 ---
+<img width="1902" height="1200" alt="4117f77e50082f8adff0850df777352c" src="https://github.com/user-attachments/assets/7f5c8516-c789-45f4-ab5e-6e06bf76390e" />
+<img width="1089" height="612" alt="abadab2485be4b2845d62886b13aa101" src="https://github.com/user-attachments/assets/a9bf8266-f61d-42c1-b5c1-dca88b70e242" />
+<img width="2064" height="1178" alt="e2f002e189bc6727963ea9b3bf18fe70" src="https://github.com/user-attachments/assets/ce722bb3-d8cb-4704-96cf-3ad98efa7865" />
+<img width="2057" height="1104" alt="573e36941cf1cd358244c08effa4927b" src="https://github.com/user-attachments/assets/8355802f-c0a1-4e96-976a-ec30f6db7a9d" />
+<img width="2136" height="1203" alt="4a60d5412cfa39e499f7d60661b22842" src="https://github.com/user-attachments/assets/5bfcc5a2-a310-4352-86f3-802d96c7cdb7" />
+<img width="2043" height="1269" alt="99c4f32c78c7f3f0958b8220e44b7000" src="https://github.com/user-attachments/assets/aa7c3162-6b35-4abb-a9e7-cfa04965ed7b" />
 
 ## 🗺️ 功能模块 / Features
 
