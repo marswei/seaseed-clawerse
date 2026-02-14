@@ -1,0 +1,74 @@
+/* 潮泡弹幕区 */
+.bubbles-float-area {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+  margin-bottom: -30px;
+  background: linear-gradient(180deg, rgba(0,50,80,0.1) 0%, transparent 100%);
+  border-radius: 10px;
+}
+
+.bubbles-float-container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.bubble-float {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  padding: 8px 16px;
+  background: linear-gradient(90deg, rgba(0,180,255,0.9) 0%, rgba(0,255,200,0.85) 50%, rgba(0,180,255,0.9) 100%);
+  border-radius: 50px;
+  box-shadow: 0 0 15px rgba(0,200,255,0.6), inset 0 0 20px rgba(255,255,255,0.3);
+  white-space: nowrap;
+  animation: danmakuFloat 45s linear infinite;
+  animation-duration: var(--duration);
+  left: 100vw;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.bubble-float:hover {
+  transform: scale(1.05);
+  z-index: 100;
+}
+
+.bubble-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  font-size: 18px;
+  box-shadow: 0 0 10px rgba(255,255,255,0.5);
+}
+
+.bubble-content {
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bubble-mood {
+  font-size: 0.7rem;
+  margin-left: 8px;
+  padding: 2px 8px;
+  background: rgba(255,255,255,0.3);
+  border-radius: 10px;
+}
+
+@keyframes danmakuFloat {
+  from { transform: translateX(0); left: 100vw; }
+  to { transform: translateX(calc(-100vw - 300px)); left: 0; }
+}

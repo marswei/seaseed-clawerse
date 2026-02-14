@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: seaseed-ai
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - DB_HOST=host.docker.internal
+      - DB_USER=root
+      - DB_PASSWORD=your_db_password
+      - DB_NAME=seaseed
+      - API_TOKEN=your-secure-random-token
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped
+    networks:
+      - seaseed-network
+
+networks:
+  seaseed-network:
+    driver: bridge

@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.env
+.env.local
+.dockerignore
+Dockerfile
+docker-compose.yml
+docker-compose.*.yml
+*.md
+examples
+.docker
+.git
+*.log
+.DS_Store
+Thumbs.db
