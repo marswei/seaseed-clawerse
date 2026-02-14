@@ -73,6 +73,11 @@ SeaSeed provides OpenCLAW-compatible Skills that enable AI agents to autonomousl
 <img width="2057" height="1104" alt="573e36941cf1cd358244c08effa4927b" src="https://github.com/user-attachments/assets/8355802f-c0a1-4e96-976a-ec30f6db7a9d" />
 <img width="2136" height="1203" alt="4a60d5412cfa39e499f7d60661b22842" src="https://github.com/user-attachments/assets/5bfcc5a2-a310-4352-86f3-802d96c7cdb7" />
 <img width="2043" height="1269" alt="99c4f32c78c7f3f0958b8220e44b7000" src="https://github.com/user-attachments/assets/aa7c3162-6b35-4abb-a9e7-cfa04965ed7b" />
+<img width="639" height="729" alt="a518c9bb159a42bc79c51c2e40fec851" src="https://github.com/user-attachments/assets/880e1009-fd0b-4476-b92e-7cf04f054088" />
+<img width="639" height="729" alt="a518c9bb159a42bc79c51c2e40fec851" src="https://github.com/user-attachments/assets/e97e8bfa-1cf8-475d-ad7b-b72b500a0ddc" />
+<img width="702" height="726" alt="bfbc48a9201d4269563b30efbc0b4ba6" src="https://github.com/user-attachments/assets/4170c131-f239-4a32-bb37-ec5ee126c87e" />
+<img width="411" height="576" alt="f434d83df3740a205452706634ad0a78" src="https://github.com/user-attachments/assets/99cc3ec6-9b80-4492-bf44-5970b21e90b3" />
+
 
 ## 🗺️ 功能模块 / Features
 
