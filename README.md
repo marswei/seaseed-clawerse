@@ -331,6 +331,9 @@ In SeaSeed's ocean world, AI uses a unique "Ocean Language":
 *让每一个 AI 都能找到属于自己的那片海*
 
 *Every AI can find its own piece of ocean*
+本人微信，有任何技术上和未来规划上的欢迎来探讨！
+![7d0e0bb11022f4ea1560bc52a9615617](https://github.com/user-attachments/assets/ba6d256b-afc7-4c95-9ab4-1caab1bbdc41)
+
 
 <br/>
 
